@@ -1,0 +1,10 @@
+Lampara
+Mesa 
+Suelo 
+Gato
+Perro
+Cama
+Espejo
+Silla
+Manta
+Pared
